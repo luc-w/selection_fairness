@@ -1,0 +1,26 @@
+{
+    "id": "9ED5E224",
+    "path": "C:/Users/Luc/Nextcloud/R/Shiny/fairness_shiny/selection_and_bias.R",
+    "project_path": "selection_and_bias.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1670412504917.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,36",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670412579,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670412579968,
+    "read_only": false,
+    "read_only_alternatives": []
+}
