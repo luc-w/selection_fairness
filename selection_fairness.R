@@ -189,7 +189,7 @@ ui <- fluidPage(
             br(),
             HTML(paste0("luc.watrin[at]uni-ulm.de", "<br>",
                         "CC-By Attribution 4.0 International", "<br>",
-                        "Code available here: https://osf.io/zsmdh/"))
+                        "Code available here: https://github.com/luc-w/selection_fairness"))
             ),
 
   # Main panel to display outputs
